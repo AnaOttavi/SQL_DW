@@ -41,7 +41,7 @@ Develop SQL - based analytics to deliver detailed insight into:
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
 ## License
-This project is licensed under [NIT License].(LICENSE). You are free to use, modify, and share this project with proper attribution.
+This project is licensed under [MIT License].(LICENSE). You are free to use, modify, and share this project with proper attribution.
 
 ## About Me
 I'm **Ana Carolina**, currently working as a Business Analyst in Sales Operations, but aspiring to transition into Business Intelligence/ Data Visualization.

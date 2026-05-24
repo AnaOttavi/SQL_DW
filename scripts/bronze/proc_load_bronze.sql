@@ -142,5 +142,4 @@ BEGIN
 		PRINT 'Erros Message' + CAST (ERROR_STATE() AS NVARCHAR);
 		PRINT '>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>'
 	END CATCH
-END    
 END

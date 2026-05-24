@@ -45,7 +45,7 @@ This project is licensed under [MIT License].(LICENSE). You are free to use, mod
 
 ## About Me
 I'm **Ana Carolina**, currently working as a Business Analyst in Sales Operations, but aspiring to transition into Business Intelligence/ Data Visualization.
-This project was guided by *8Baraa Khatib Salkini**, also known as **Data with Baraa**.
+This project was guided by **Baraa Khatib Salkini**, also known as **Data with Baraa**.
 
 
 
